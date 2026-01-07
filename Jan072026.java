@@ -1,4 +1,4 @@
-class Jan0726 {
+class Jan072026 {
     long totalSum = 0;
     long maxProduct = 0;
     int MOD = 1_000_000_007;
